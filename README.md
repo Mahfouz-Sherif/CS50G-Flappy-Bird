@@ -1,6 +1,6 @@
 # CS50G-Flappy-Bird
 CS50's Introduction to Game Development Project 1: Flappy Bird
-## Specification
+## Goal
 * Randomize the gap between pipes (vertical space), such that they’re no longer hardcoded to 90 pixels.
 
 * Randomize the interval at which pairs of pipes spawn, such that they’re no longer always 2 seconds apart.
